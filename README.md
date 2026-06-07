@@ -1,8 +1,7 @@
 # Phishing Email Detection & Awareness System
 
 ## Description
-This project contains the professional Phishing Detection and Employee Awareness Framework I made while performing a technical social engineering teardown on a malicious email vector. This assignment satisfies the requirements for the **Future Interns Cyber Security Internship**.
-The goal of this project is to analyze raw email artifacts, isolate behavioral and domain red flags, establish a corporate risk classification framework, and build an actionable employee education guide to defend the human perimeter.
+This project contains the professional Phishing Detection and Employee Awareness Framework I made while performing a technical social engineering teardown on a malicious email vector.The goal of this project is to analyze raw email artifacts, isolate behavioral and domain red flags, establish a corporate risk classification framework, and build an actionable employee education guide to defend the human perimeter.
 
 ---
 
