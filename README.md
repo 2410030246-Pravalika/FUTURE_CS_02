@@ -35,7 +35,7 @@ The threat assessment was completed using a systematic, industry-standard lifecy
 ---
 
 ##  Repository Deliverables
-* `/reports/` - Contains the publication-ready ** PHISHING DETECTION & AWARENESS REPORT.pdf`**.
+* `/reports/` - Contains the publication-ready **`PHISHING DETECTION & AWARENESS REPORT.pdf`**.
 * `/evidence-samples/` - Hosts the raw textual proof artifacts (`phishing_email_sample.txt.rtf`) evaluated during triage.
 
 ---
